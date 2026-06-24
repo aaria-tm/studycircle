@@ -1,9 +1,7 @@
-# studycircle
+
 # StudyCircle
 
 StudyCircle is a peer-to-peer student collaboration platform designed to bridge the gap between seniors and classmates. The application provides a centralized ecosystem for academic mentorship, peer connection, study resource distribution, resource recycling, and collaborative project formation.
-
----
 
 ## Key Features
 
@@ -14,8 +12,6 @@ StudyCircle is a peer-to-peer student collaboration platform designed to bridge 
 * **Book Marketplace:** A student-to-student marketplace for listing, selling, or buying used academic textbooks locally on campus.
 * **Administrative Operations Panel:** A centralized dashboard for platform administrators to track active user statistics, resource contributions, marketplace transaction volumes, and manage user moderation policies.
 
----
-
 ## Technical Architecture
 
 The frontend presentation layer uses a single-page application design built with standard web technologies.
@@ -25,8 +21,6 @@ The frontend presentation layer uses a single-page application design built with
 * **Typography and Iconography:** Inter or standard sans-serif system fonts with vectorized iconography provided by FontAwesome.
 * **State and View Management:** Vanilla JavaScript controlling views via conditional display classes to simulate application routing natively in the browser client.
 
----
-
 ## Installation and Deployment
 
 To run the frontend prototype locally, no external package compilation or server configuration is required.
@@ -34,8 +28,6 @@ To run the frontend prototype locally, no external package compilation or server
 1. Clone or download the source code files to your local directory.
 2. Ensure you have an active internet connection to load the Tailwind CSS and FontAwesome CDNs.
 3. Open the `index.html` file directly in any standard desktop or mobile web browser.
-
----
 
 ## Future Enhancements
 
